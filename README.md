@@ -1,6 +1,6 @@
 # ShowMeDummy
 
-ShowMeDummy is a web application for checking the desktop display using an HDMI dummy plug.
+ShowMeDummy is a super simple web application for checking the desktop display using an HDMI dummy plug.
 
 ## Overview
 
@@ -14,8 +14,8 @@ This web app allows you to show the desktop display using an HDMI dummy plug. It
 
 ## Usage
 ![ShowMeDummy](demo.gif)
-1. Open ShowMeDummy with Chrome browser.
-2. Connect the HDMI dummy plug.
+1. Connect the HDMI dummy plug to your computer.
+2. Open [ShowMeDummy](https://tetsuakibaba.github.io/ShowMeDummy/) with Chrome browser
 3. Click the display button to show the desktop display.
 
 ## License
